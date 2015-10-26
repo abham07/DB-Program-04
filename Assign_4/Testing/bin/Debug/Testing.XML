@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Testing</name>
+    </assembly>
+    <members>
+        <member name="T:Testing.Testing">
+            <summary>
+            A test class containing various test methods
+            </summary>
+        </member>
+        <member name="M:Testing.Testing.InjectionAttack">
+            <summary>
+            A method for an injection attack using both safe and unsafe insertions
+            </summary>
+        </member>
+        <member name="M:Testing.Testing.XSSAttack">
+            <summary>
+            A method for an XSS attack using both safe and unsafe display table pages
+            </summary>
+        </member>
+    </members>
+</doc>
